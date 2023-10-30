@@ -12,7 +12,7 @@
 
 <div class="bg-[#3f3f3f] text-gray-50 w-full">
 
-  <div class="w-full h-[60px] bg-[#4f4f4f] border-b border-gray-500 rounded-b drop-shadow-xl">
+  <div class="w-full h-[60px] bg-[#4f4f4f] flex place-content-around border-b border-gray-500 rounded-b drop-shadow-xl">
   
     <div class="max-w-[1400px] pt-1.5">
       
@@ -20,7 +20,7 @@
 
         <div class="w-[220px] pt-3 hover:translate-y-1 hover:scale-[95%] duration-200">
           <a href="/" class="font-['Nosifer'] text-xl text-yellow-400">
-            Bid Cafe
+            site_title
           </a>
         </div>
 

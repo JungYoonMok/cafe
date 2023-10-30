@@ -9,7 +9,7 @@
     </div>
 
     <!-- 컨텐츠 -->
-    <div class="py-10">
+    <div class="p-10">
 
       <div class="bg-[#2f2f2f] mb-5 opacity-90 p-5 w-[500px] flex gap-1">
         <h2>자유게시판 - 등록</h2>

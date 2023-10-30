@@ -11,9 +11,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     public function index()
     {
-      $this->load->model('board_model');
-      $data['list'] = $this->board_model->GetBoardList();
-      $data['total'] = $this->board_model->GetBoardTotal();
+      $this->load->model('notice_model');
+      $data['list'] = $this->notice_model->GetBoardList();
+      $data['total'] = $this->notice_model->GetBoardTotal();
       
       $this->load->view('header');
       $this->load->view('board/notice_board', $data);
